@@ -1,0 +1,17 @@
+{
+    "reference": "",
+    
+    "dataset": "PRJNA759391",
+    
+    "samples": {
+        "SRR15718926": {
+            "R1": "data/SRR15718926_1.fastq",
+            "R2": "data/SRR15718926_2.fastq"
+        }, 
+        "SRR15718936": {
+            "R1": "data/SRR15718936_1.fastq",
+            "R2": "data/SRR15718936_2.fastq"
+        }   
+
+    }  
+}
